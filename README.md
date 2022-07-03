@@ -5,4 +5,4 @@ De fiecare data când un jucator sare, scorul lui va creste cu 1, daca atinge la
 Daca alegem modul singleplayer, va fi un singur jucator, care va trebui sa porneasca de la START si sa ajunga la FINISH;
 Acesta trebuie sa se fereasca de bombe pentru a supravietui, acest mod singleplayer avand 3 nivele, daca la al treilea nivel ajungem la FINISH, jocul se termina;
 Acest jucator se va deplasa cu ajutorul sagetilor de la tastatura.
- In fisierul "om" si "fata" se poate observarea implementarea jucatorilor. 
+ In fisierul "om" se poate observarea implementarea jucatorilor. 
